@@ -1,19 +1,19 @@
 {
-    "version": "0.1.10",
+    "version": "0.1.11",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/datamitsu/datamitsu/releases/download/v0.1.10/datamitsu_0.1.10_windows_amd64.zip",
+            "url": "https://github.com/datamitsu/datamitsu/releases/download/v0.1.11/datamitsu_0.1.11_windows_amd64.zip",
             "bin": [
                 "datamitsu.exe"
             ],
-            "hash": "f30f3c390bf005ac7ea8745b78d48576e21fc35ece592c1a4762da9d824d7f46"
+            "hash": "b6c72e6f90f43f87867d280b2c97c7775653ca455a3d466a3189847234d4ca8c"
         },
         "arm64": {
-            "url": "https://github.com/datamitsu/datamitsu/releases/download/v0.1.10/datamitsu_0.1.10_windows_arm64.zip",
+            "url": "https://github.com/datamitsu/datamitsu/releases/download/v0.1.11/datamitsu_0.1.11_windows_arm64.zip",
             "bin": [
                 "datamitsu.exe"
             ],
-            "hash": "45e0681bca24bebe3f3443fb91b3beba004b877524c293df8e548357635b10df"
+            "hash": "874e360a64e1670ab3e6fa448e039a8db207b31e783180520dafeca55dfff1d3"
         }
     },
     "homepage": "https://datamitsu.com/",
